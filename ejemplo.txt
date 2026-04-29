@@ -1,0 +1,11 @@
+Python es una palabra muy usada en este texto.  
+La palabra Python aparece muchas veces porque Python es importante.  
+
+Este archivo contiene texto de ejemplo.  
+La palabra palabra aparece aquí como palabra clave del texto.  
+
+Python y texto suelen ir juntos en este archivo.  
+Otra palabra más aparece en el texto, y esa palabra es palabra.  
+
+En este archivo la palabra palabra se repite.  
+Python vuelve a aparecer como palabra destacada.

@@ -1,0 +1,12 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de compilación o salida
+Paquete Tarea 01/
+
+# Secretos y configuración personal (¡MUY IMPORTANTE!)
+.env
+.flaskenv
+*.pem
+*.key
